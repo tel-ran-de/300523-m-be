@@ -26,7 +26,7 @@ public class Main {
         //Во время компиляции Java знает, какой метод вызывать, проверяя сигнатуры метода.
         //So, this is called compile time polymorphism or static linking.
         s1.area(10);
-        s1.area(10,50);
+        s2.area(10,50);
     }
 
 }
